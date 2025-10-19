@@ -13,6 +13,13 @@ export const metadata = {
   icons: {
     icon: "/favicon.ico",
   },
+  twitter: {
+  card: "summary_large_image",
+  site: "@kevyll",
+  title: "Kevyll AI Chat",
+  description: "A simple AI chat app powered by multiple AI models",
+  images: ["https://uploader.zenzxz.dpdns.org/uploads/1760880480104.jpeg"],
+},
   openGraph: {
     title: "Kevyll AI Chat",
     description: "A simple AI chat app powered by multiple AI models",
